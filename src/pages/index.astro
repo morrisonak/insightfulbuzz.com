@@ -10,8 +10,8 @@ interface MarkdownFrontmatter {
 }
 
 const title = 'Insightful Buzz';
-const description = 'A Theme for Astro';
-const seoDescription = 'Creek is a theme for Astro static site generator';
+const description = ' A blog about web development, tech, and more.';
+const seoDescription = 'A blog about web development, tech, and more.';
 
 const allPosts = await Astro.glob<MarkdownFrontmatter>('./posts/*.md');
 const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.pubDate).valueOf() - new Date(a.frontmatter.pubDate).valueOf());
