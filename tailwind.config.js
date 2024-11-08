@@ -103,9 +103,9 @@ module.exports = {
         body: ["Poppins", "sans-serif"],
       },
       fontSize: {
-        "7xl": "5rem",
-        "8xl": "6rem",
-        "9xl": "7rem",
+        "7xl": "2rem",
+        "8xl": "3rem",
+        "9xl": "4rem",
       },
     },
   },
