@@ -1,8 +1,8 @@
 ---
-title: "Overcoming Startup Product Development Challenges: A Comprehensive Guide."
+title: "Overcoming Startup Product Development Challenges"
 pubDate: "2024-11-08"
 slug: "startup-mvp"
-description: "Empowering Startups from Concept to Market with Expert Product Development Solutions"
+description: "Empowering Startups from Concept to Market"
 hero: "/images/startup.webp"
 tags: ["start up"]
 layout: "../../layouts/BlogPostLayout.astro"
